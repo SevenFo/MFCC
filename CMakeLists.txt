@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.21)
+cmake_minimum_required(VERSION 3.20)
 project(MFCC)
 
 set(CMAKE_CXX_STANDARD 11)
@@ -12,8 +12,8 @@ include_directories(
         ${EIGEN_DIR}
 )
 
-add_executable(MFCC main.cpp CsvPraser.cpp CsvPraser.h test.cpp)
+# add_executable(MFCC main.cpp CsvPraser.cpp CsvPraser.h test.cpp)
 add_executable(test test.cpp CsvPraser.cpp CsvPraser.h test.cpp)
 
-target_link_libraries(MFCC "onnxruntime")
-target_link_libraries(test "onnxruntime")
+# target_link_libraries(MFCC "onnxruntime")
+target_link_libraries(test)

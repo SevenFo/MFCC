@@ -1,4 +1,3 @@
-/home/siky/CLionProjects/MFCC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/siky/CLionProjects/MFCC/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/siky/CLionProjects/MFCC/cmake-build-debug/CMakeFiles/test.dir
-/home/siky/CLionProjects/MFCC/cmake-build-debug/CMakeFiles/MFCC.dir
+D:/programs/C++/MFCC/MFCC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/programs/C++/MFCC/MFCC/cmake-build-debug/CMakeFiles/test.dir
+D:/programs/C++/MFCC/MFCC/cmake-build-debug/CMakeFiles/edit_cache.dir
